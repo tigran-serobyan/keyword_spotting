@@ -1,5 +1,5 @@
 def plot_data(data):
-  pass
+  return None
 
 def plot_track(track, sr):
   pass
